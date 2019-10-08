@@ -6,67 +6,97 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Navigating & Interacting with GitHub
+Cloning, Branching, & Versioning
 -------------
 
 **Description:**
 
-In this step, you will learn the basics of interacting with the GitHub web interface and the GitHub desktop Client.
+In this step, you will learn more advanced skills including cloning a repo, the difference between branching and forking, and how to submit and accept pull requests.
 ----
 
-Basic Layout
-~~~~~~~~~~~~
-
-|GitHub|
-
-The basic layout includes:
-- Profile
-- Organizations
-	These are larger groups that may have multiple repositories
-- Repositories
-- `Projects <https://help.github.com/en/articles/about-project-boards>`_
-- Followers
-- Contributions
-
-*Create a Repo*
+Clone a repo
 ~~~~~~~~~~~~~~~~~~~
 
-1. Go to your dasboard
+1. Click the down arrow "Clone or download"
+2. Click "Open in Desktop"
+3. Select where to save it
+	- Create a folder for GitHub repos on your computer locally
 
-2. Click "New"
-
-3. Name the repository
-
-4. Initialize with "README"
-	- form of metadata
-	- this tells you and the those looking at the repository what it is about
-
-.. note:: Documentation is vital. *You are doing this for you 6 months from now*
+.. code-block:: console
+	git clone https://github.com/path/to/repo
+	#can get path to repo under "Clone or download" arrow
 
 -------
 
-*Create an Issue*
+Commit
 ~~~~~~~~~~~~~~~~~~~
-..
-1. Click on the repository you just created.
-
-2. Click on "Issues"
-
-3. Click on "New issue"
-
-4. Create a title
-
-	- this will have a hastag (#) and issue number that you can refer to later
-	
-5. Assign to someone, or create a label
-
-6. Submit new issue
-
-**Exercise:** Create a new issue and relate it back to the issue you just created.
+1. Create a file and put it in your *local* GitHub repo
+2. Open Desktop
+3. Fetch origin
+4. Write a commit message & hit commit
+5. Push to origin
+6. See changes on the repo online
 
 ----
 
-Next step: `Clone, fork, branch, pull <step2.html>`_!
+Create a branch
+~~~~~~~~~~~~~~~~~~~
+1. Select the down arrow on the repository page that says "Branch:master"
+2. Create a new branch name
+
+.. code-block:: console
+	git checkout -b <new branch name>
+	git branch -d <branch name>
+	git push origin master
+	git push --delete origin <branch name>
+
+----
+
+Make a pull request
+~~~~~~~~~~~~~~~~~~~
+1. From your branch, create a new file
+2. Commit file to your branch
+3. Hit "Compare & pull request"
+4. Go to pull requests
+5. "Merge pull request"
+6. Delete branch
+7. See it on the master branch
+
+**Note** that you can always revert back to a previous version
+
+.. code-block:: console
+	git pull upstream master
+	git commit
+	#add in message
+	git push origin <master branch name>
+
+**Exercise:** Why would pull requests be important?
+
+----
+
+Etc.
+~~~~
+
+- Versioning
+	1. Go to "Releases"
+	2. Click "Create a new release"
+	3. Tag version: Version #
+	4. Release title: I usually put the date of the release, but any system can work
+
+- Reactions:
+	1. Create a new pull request
+	2. Looking at the messages, click the smiley face to give a reaction
+
+- Badges
+	1. Go find a `badge <https://naereen.github.io/badges/>`_!
+	2. Copy badge code into README:
+
+.. code-block:: 
+	[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+- Notifications:
+	- get notified when there is an issue or pull request created
+	- can also "watch" a repository and get updates
 
 ----
 
