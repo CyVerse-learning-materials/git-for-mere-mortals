@@ -28,8 +28,8 @@ The basic layout includes:
 - Followers
 - Contributions
 
-*Create a Repo*
-~~~~~~~~~~~~~~~~~~~
+Create a Repo
+~~~~~~~~~~~~~~~~
 
 1. Go to your dasboard
 
@@ -45,7 +45,7 @@ The basic layout includes:
 
 -------
 
-*Create an Issue*
+Create an Issue
 ~~~~~~~~~~~~~~~~~~~
 ..
 1. Click on the repository you just created.
