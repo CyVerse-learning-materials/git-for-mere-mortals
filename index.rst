@@ -26,8 +26,8 @@ Goal
 	:maxdepth: 2
 
 	Tutorial home <self>
-	Step One <step1.rst>
-	Delete this example guide page <example_directives_delete.rst>
+	Exercise 1 <exercise1.rst>
+	Exercise 2 <exercise2.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step One' with content located in 'step1.rst'
@@ -51,136 +51,36 @@ Downloads, access, and services
     * - Prerequisite
       - Preparation/Notes
       - Link/Download
-    * - CyVerse account
-      - You will need a CyVerse account to complete this exercise
-      - |CyVerse User Portal|
-    * - Atmosphere access
-      - You must have access to Atmosphere
-      - |CyVerse User Portal|
-    * - Cyberduck
-      - Standalone software for upload/download to Data Store
-      - |Download Cyberduck|
-
+    * - GitHub account
+      - You will need a GitHub account to complete this exercise
+      - 'sign up for GitHub <https://help.github.com/en/articles/signing-up-for-a-new-github-account>`_!
+      
 Platform(s)
 ~~~~~~~~~~~
 
 *We will use the following CyVerse platform(s):*
 
- ..
-   #### comment: delete any row not needed in this table ####
-
-.. list-table::
-    :header-rows: 1
-
-    * - Platform
-      - Interface
-      - Link
-      - Platform Documentation
-      - Quick Start
-    * - Data Store
-      - GUI/Command line
-      - |Data Store|
-      - |Data Store Manual|
-      - |Data Store Guide|
-    * - Discovery Environment
-      - Web/Point-and-click
-      - |Discovery Environment|
-      - |DE Manual|
-      - |Discovery Environment Guide|
-    * - Atmosphere
-      - Command line (ssh) and/or Desktop (VNC)
-      - |Atmosphere|
-      - |Atmosphere Manual|
-      - |Atmosphere Guide|
-    * - BisQue
-      - Web/Point-and-click and/or Command-line (API)
-      - |BisQue|
-      - |BisQue Manual|
-      - (See Manual)
-    * - DNA Subway
-      - Web/Point-and-click
-      - |DNA Subway|
-      - (See Guide)
-      - |DNA Subway Guide|
-    * - SciApps
-      - Command-line (API)
-      - |SciApps|
-      - (See Guide)
-      - |SciApps Guide|
-    * - Agave API
-      - Command-line (API)
-      - |Agave API|
-      - |Agave Live Docs|
-      - (See Live Docs)
-
-Application(s) used
-~~~~~~~~~~~~~~~~~~~
-..
-	#### Comment: these tables are examples, delete whatever is unnecessary ####
-
-**Discovery Environment App(s):**
-
-.. list-table::
-    :header-rows: 1
-
-    * - App name
-      - Version
-      - Description
-      - App link
-      - Notes/other links
-    * - Muscle
-      - 3.8.31
-      - Multiple sequence aligner
-      -	|DE Application URL|
-      - |Original App Documentation|
+No CyVerse platforms are needed for this tutorial
 
 
-**Atmosphere Image(s):**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Image name
-      - Version
-      - Description
-      - Link
-      - Notes/other links
-    * - CyVerse CentOS 6.8 GUI Base
-      - 1.0
-      - base image CentOS 6.8 with GNOME GUI
-      - |Atmosphere Image|
-      -
-
-
-
-Input and example data
+Setup
 ~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need to have the following inputs prepared*
+1. Create an account on GitHub:
 
-..
-	#### comment: delete any row not needed in this table ####
+   - `GitHub <https://github.com/>`_
 
-.. list-table::
-    :header-rows: 1
+2. Download GUI interface for using GitHub.
 
-    * - Input File(s)
-      - Format
-      - Preparation/Notes
-      - Example Data
-    * -
-      -
-      -
-      -
+   - `Download GitHub Desktop <https://desktop.github.com/>`_
 
+ 3. Create a folder on your computer titled "GitHub"
 ----
 
 **Fix or improve this documentation**
 
 Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
-
+|CyVerse Learning Center|
 ----
 
 |Home_Icon|_
