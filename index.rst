@@ -5,7 +5,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**TUTORIAL NAME**
+**Git for Mere Mortals**
 =================
 
 ..
@@ -15,10 +15,9 @@
 Goal
 ----
 
-..
-    #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
-    necessarily part of the tutorial - write or link to separate quick
-    starts/tutorials for those parts ####
+This tutorial will teach the the basics of git using GitHub. You will learn how to create a repository and interact with the GitHub environment through an internet browser and desktop client. The tutorial will briefly introduce some advanced topics.
+
+You can follow along with the rest of this tutorial on your own, or with the corresponding *YouTube Video* Link will be added once it's live.
 
 ----
 
@@ -26,8 +25,8 @@ Goal
 	:maxdepth: 2
 
 	Tutorial home <self>
-	Exercise 1 <exercise1.rst>
-	Exercise 2 <exercise2.rst>
+	Navigating & Interacting with GitHub <step1.rst>
+	Cloning branching and versioning <step2.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step One' with content located in 'step1.rst'
@@ -54,30 +53,23 @@ Downloads, access, and services
     * - GitHub account
       - You will need a GitHub account to complete this exercise
       - `sign up for GitHub <https://help.github.com/en/articles/signing-up-for-a-new-github-account>`_!
+    * - GitHub DeskTop
+      - Dowload and install this on your computer if you want to use the desktop version of GitHub
+      - `Download GitHub Desktop <https://desktop.github.com/>`_
+    * -	A folder for storing repositories
+      - Create a folder on your computer titled "GitHub"
+      - 
+    * Optional git software on your computer
+      - Install if you want to use Git on the command line
+      - `Installation instructions <https://www.atlassian.com/git/tutorials/install-git>`_!
+      
       
 Platform(s)
 ~~~~~~~~~~~
 
 *We will use the following CyVerse platform(s):*
 
-No CyVerse platforms are needed for this tutorial
-
-
-Setup
-~~~~~~~~~~~~~~~~~~~~~~
-
-1. Create an account on GitHub:
-
-   - `GitHub <https://github.com/>`_
-
-2. Download GUI interface for using GitHub.
-
-   - `Download GitHub Desktop <https://desktop.github.com/>`_
-
-3. Create a folder on your computer titled "GitHub"
-----
-
-You can follow along with the rest of this tutorial on your own, or with the corresponding *YouTube Video* Link will be added once it's live.
+No CyVerse platforms are needed for this tutorial.
 
 **Fix or improve this documentation**
 
@@ -87,6 +79,68 @@ Search for an answer:
 |CyVerse Learning Center|
 ----
 
+
+**Introduction to Git & GitHub**
+-----------------------------
+
+**Definitions**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Git* - tool for version control.
+*GitHub* - hosted server that is also interactive.
+*repo* - short for repository; GitHub lets you create a remote repository online.
+*local* - on your personal computer.
+*clone* - copy of a repository that lives locally on your computer. Pushing changes will affect the repository online.
+*fetch* - getting latest changes to the repository on your local computer.
+*branch* - parallel to the master branch; allows you to make changes without affecting the master branch. Changes made on a branch can be merged back to the master.
+*fork* - copy of someone else's repository stored locally on your account. From forks, you can make pull requests to the master branch.
+*upstream* - primary or master branch of original repository.
+*downstream* - branch or fork of repository.
+*commit* - finalize a change.
+*push* - add changes back to the remote repository.
+*merge* - takes changes from a branch or fork and applies them to the master.
+*pull request* - proposed changes to/within a repository.
+*issue* - suggestions or tasks needed for the repository. Allows you to track decisions, bugs with the repository, etc.
+
+**Introduction**
+~~~~~~~~~~~~~~~~~~~~~
+
+We will learn how to:
+- create a repository
+	- best practices
+	- create an issue
+	- push/pull files
+	- commit to GitHub
+- interact with the GitHub environment
+	- using the web interface
+	- using GitHub Desktop
+	- matrices & lists
+- advanced GitHub
+	- branching
+	- forking
+	- merging
+	- versioning
+
+GitHub makes it easy to keep track of changes and has a built in version control.
+
+**Background**
+~~~~~~~~~~~~~~
+
+GitHub Uses
+============
+
+- Version control
+- Collaborative projects
+- Creating websites
+- Teaching tools
+- Software development
+- Code development
+
+..
+    Note:: Git is not really for storing or manipulating data, especially large files
+
+
+
+-------------
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`__
 
