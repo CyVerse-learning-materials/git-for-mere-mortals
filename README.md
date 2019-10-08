@@ -1,8 +1,8 @@
-# Template CyVerse Tutorial Repo
+# A GitHub Tutorial for real beginners
 
-You should import this repo to build CyVerse Tutorials
+Add a description of the tutorial here. 
 
-**See what this template looks like [rendered on ReadTheDocs](https://cyverse-cyverse-tutorial-template.readthedocs-hosted.com/en/latest/)**
+This tutorial is live at $addURLhere
 
 ## How CyVerse Learning Center documentation is built
 
@@ -42,24 +42,6 @@ workflow are below **(See Building a Tutorial from Scratch)**.
 - Uploading files to SRA: Could be both
 - Assembling a transcriptome: Tutorial
 - An intro to the Discovery Environment: Guide
-
-
-## What this repo contains
-
-|Item|Description|Notes|
-|----|-----------|-----|
-|index.rst|Edit this template to create your documentation|documents written in markdown will need to be converted to restructured text|
-|step1.rst|If documentation has more than one page, use this for the second through second-to-last page; copy as needed|copy as needed for additional pages 1..(n-1)|
-|step2.rst|If documentation has more than one page, this should always be the **last** page||
-|/img (folder)|Place images for your tutorials here|CyVerse logos and other useful images are already here|
-|example_directives_delete.rst|Example page with code for common restructured text objects||
-|cyverse_rst_defined_substitutions.txt|restructured text substitutions for common URLs and images||
-|conf.py|Place to add tutorial and author name;versioning||
-|README.md|These instructions|**Delete these** before publishing your documentation|
-|/slides (folder)|Place slides associated with your tutorial here|version controlled files preferred, PPT acceptable|
-|/misc (folder)|miscellaneous needed for building documentation| |
-|License.md|License|this license file applies to all materials created by CyVerse for this documentation|
-|Contributors_maintainers.md|Contact information and recognition||
 
 
 ## Simple contribution instructions
