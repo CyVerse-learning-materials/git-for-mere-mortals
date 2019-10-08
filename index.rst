@@ -26,7 +26,7 @@ You can follow along with the rest of this tutorial on your own, or with the cor
 
 	Tutorial home <self>
 	Navigating & Interacting with GitHub <step1.rst>
-	Cloning branching and versioning <step2.rst>
+	Cloning, Branching, & Versioning <step2.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step One' with content located in 'step1.rst'
