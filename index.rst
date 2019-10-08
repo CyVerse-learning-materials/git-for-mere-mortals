@@ -53,7 +53,7 @@ Downloads, access, and services
       - Link/Download
     * - GitHub account
       - You will need a GitHub account to complete this exercise
-      - 'sign up for GitHub <https://help.github.com/en/articles/signing-up-for-a-new-github-account>`_!
+      - `sign up for GitHub <https://help.github.com/en/articles/signing-up-for-a-new-github-account>`_!
       
 Platform(s)
 ~~~~~~~~~~~
