@@ -79,6 +79,8 @@ Setup
 
 **Fix or improve this documentation**
 
+|Github Repo Link|
+
 Search for an answer:
 |CyVerse Learning Center|
 ----
@@ -117,7 +119,7 @@ Search for an answer:
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/git-for-mere-mortals">Github Repo Link</a>
 
 .. |Download Cyberduck| raw:: html
 
