@@ -6,69 +6,67 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Section Name
+Navigating & Interacting with GitHub
 -------------
 
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
-
+In this step, you will learn the basics of interacting with the GitHub web interface and the GitHub desktop Client.
 ----
 
-**Input Data:**
+Basic Layout
+~~~~~~~~~~~~
 
-.. list-table::
-    :header-rows: 1
+|GitHub|
 
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
+The basic layout includes:
+- Profile
+- Organizations
+	These are larger groups that may have multiple repositories
+- Repositories
+- `Projects <https://help.github.com/en/articles/about-project-boards>`_
+- Followers
+- Contributions
 
-*Descriptive Steps*
+*Create a Repo*
 ~~~~~~~~~~~~~~~~~~~
 
-.. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
+1. Go to your dasboard
 
+2. Click "New"
 
-1.
+3. Name the repository
 
-2.
+4. Initialize with "README"
+	- form of metadata
+	- this tells you and the those looking at the repository what it is about
 
-3.
+.. note:: Documentation is vital. *You are doing this for you 6 months from now*
 
+-------
 
-
+*Create an Issue*
+~~~~~~~~~~~~~~~~~~~
 ..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+1. Click on the repository you just created.
 
-**Output/Results**
+2. Click on "Issues"
 
-.. list-table::
-    :header-rows: 1
+3. Click on "New issue"
 
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
+4. Create a title
 
+	- this will have a hastag (#) and issue number that you can refer to later
+	
+5. Assign to someone, or create a label
+
+6. Submit new issue
+
+**Exercise:** Create a new issue and relate it back to the issue you just created.
 
 ----
 
-**Description of output and results**
-
+Next step: `Clone, fork, branch, pull <step2.html>`_!
 
 ----
 
