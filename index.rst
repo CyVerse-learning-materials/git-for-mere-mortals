@@ -74,8 +74,10 @@ Setup
 
    - `Download GitHub Desktop <https://desktop.github.com/>`_
 
- 3. Create a folder on your computer titled "GitHub"
+3. Create a folder on your computer titled "GitHub"
 ----
+
+You can follow along with the rest of this tutorial on your own, or with the corresponding *YouTube Video* Link will be added once it's live.
 
 **Fix or improve this documentation**
 
