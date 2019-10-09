@@ -7,7 +7,7 @@
 
 
 Cloning, Branching, & Versioning
--------------
+--------------------------------
 
 **Description:**
 
@@ -88,7 +88,7 @@ Create a branch
 
 2. Create a new branch name
 
-OR
+**OR**
 
 1. Add new file or edit existing file.
 
@@ -143,8 +143,7 @@ Pull request
 
 .. note:: that you can always revert back to a previous version
 
-**Exercise:**
-2. Why would pull requests be important?
+**Exercise:** Why would pull requests be important?
 
 ----
 
