@@ -42,7 +42,6 @@ Create a Repo
 4. Initialize with "README"
 	- form of metadata
 	- this tells you and the those looking at the repository what it is about
-
 .. note:: Documentation is vital. *You are doing this for you 6 months from now*
 
 5. Can add collaborators under "Settings" -> "Collaborators"
@@ -73,7 +72,7 @@ Create an Issue
 
 7. Close issue
 
-**tip** Issues are great for tracking decisions made or to-do lists
+.. tip:: Issues are great for tracking decisions made or to-do lists
 
 **Exercise:** Create a new issue and relate it back to the issue you just created.
 
