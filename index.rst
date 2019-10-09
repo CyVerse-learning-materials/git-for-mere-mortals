@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 **Git for Mere Mortals**
-=================
+========================
 
 ..
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
@@ -126,7 +126,7 @@ GitHub makes it easy to keep track of changes and has a built in version control
 ~~~~~~~~~~~~~~
 
 GitHub Uses
-============
+===========
 
 - Version control
 - Collaborative projects
