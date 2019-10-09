@@ -136,7 +136,7 @@ GitHub Uses
 - Code development
 
 ..
-    Note:: Git is not really for storing or manipulating data, especially large files
+.. note:: Git is not really for storing or manipulating data, especially large files
 
 
 
