@@ -44,19 +44,19 @@ Commit
 
 *Desktop*
 
+1. Create a file and put it in your *local* GitHub repo
+
+2. Open Desktop
+
+3. Fetch origin
+
+4. Write a commit message & hit commit
+
+5. Push to origin
+
+6. See changes on the repo online
+
 .. tip::  fetch & pull origin (see changes you've made online)
-
-2. Create a file and put it in your *local* GitHub repo
-
-3. Open Desktop
-
-4. Fetch origin
-
-5. Write a commit message & hit commit
-
-6. Push to origin
-
-7. See changes on the repo online
 
 ----
 
@@ -127,9 +127,11 @@ Pull request
 
 1. Fetch & pull origin
 
-2a. Select "Current branch", make a "New Branch", "Publish Branch" (you can see that it has been made online)
+2. Select "Current branch", make a "New Branch", "Publish Branch" (you can see that it has been made online)
 
-2b. OR select a branch if one has already been made
+]**OR**
+
+2. Select a branch if one has already been made
 
 3. Make changes to a file
 
