@@ -129,7 +129,7 @@ Pull request
 
 2. Select "Current branch", make a "New Branch", "Publish Branch" (you can see that it has been made online)
 
-]**OR**
+**OR**
 
 2. Select a branch if one has already been made
 
