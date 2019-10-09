@@ -44,7 +44,7 @@ Commit
 
 *Desktop*
 
-1. **tip** fetch & pull origin (see changes you've made online)
+.. tip::  fetch & pull origin (see changes you've made online)
 
 2. Create a file and put it in your *local* GitHub repo
 
@@ -94,13 +94,13 @@ OR
 
 2. Write a commit message.
 
-3. Select "Create a **new branch**"
+3. Select "Create a new branch"
 
 *Desktop*
 
 1. Fetch & pull origin
 
-2. Select "Current branch", make a "New Branch", "Publish Branch" (**note** you can see that it has been made *online*)
+2. Select "Current branch", make a "New Branch", "Publish Branch" (you can see that it has been made online)
 
 ----
 
@@ -127,8 +127,7 @@ Pull request
 
 1. Fetch & pull origin
 
-2a. Select "Current branch", make a "New Branch", "Publish Branch" (**note** you can see 
-that it has been made *online*)
+2a. Select "Current branch", make a "New Branch", "Publish Branch" (you can see that it has been made online)
 
 2b. OR select a branch if one has already been made
 
@@ -138,11 +137,11 @@ that it has been made *online*)
 
 5. Push to origin
 
-6. "Create a pull request" (**note** takes you back *online*)
+6. "Create a pull request" (takes you back online)
 
-**tip** pull requests are great to get feedback from collaborators before making a change
+.. tip:: pull requests are great to get feedback from collaborators before making a change
 
-**Note** that you can always revert back to a previous version
+.. note:: that you can always revert back to a previous version
 
 **Exercise:**
 2. Why would pull requests be important?
