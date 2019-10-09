@@ -16,62 +16,170 @@ In this step, you will learn more advanced skills including cloning a repo, the 
 ----
 
 Clone a repo
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+*Online*
 
 1. Click the down arrow "Clone or download"
+
 2. Click "Open in Desktop"
+
 3. Select where to save it
 	- Create a folder for GitHub repos on your computer locally
-
-.. code-block:: console
-	git clone https://github.com/path/to/repo
-	#can get path to repo under "Clone or download" arrow
 
 -------
 
 Commit
-~~~~~~~~~~~~~~~~~~~
-1. Create a file and put it in your *local* GitHub repo
-2. Open Desktop
-3. Fetch origin
-4. Write a commit message & hit commit
-5. Push to origin
-6. See changes on the repo online
+~~~~~~
+
+*Online*
+
+1. Create a file  by clicking "Create a new file"
+
+2. Name file (/name)
+
+3. Write commit message
+
+4. Press "Commit"
+
+*Desktop*
+
+1. **tip** fetch & pull origin (see changes you've made online)
+
+2. Create a file and put it in your *local* GitHub repo
+
+3. Open Desktop
+
+4. Fetch origin
+
+5. Write a commit message & hit commit
+
+6. Push to origin
+
+7. See changes on the repo online
+
+----
+
+Version Control
+~~~~~~~~~~~~~~~
+
+*Online*
+
+1. Click on file
+
+2. Click "History"
+
+*Desktop*
+
+1. Go to repository
+
+2. Go to branch
+
+3. Go to "Changes"
 
 ----
 
 Create a branch
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+*Online*
+
 1. Select the down arrow on the repository page that says "Branch:master"
+
 2. Create a new branch name
 
-.. code-block:: console
-	git checkout -b <new branch name>
-	git branch -d <branch name>
-	git push origin master
-	git push --delete origin <branch name>
+OR
+
+1. Add new file or edit existing file.
+
+2. Write a commit message.
+
+3. Select "Create a **new branch**"
+
+*Desktop*
+
+1. Fetch & pull origin
+
+2. Select "Current branch", make a "New Branch", "Publish Branch" (**note** you can see that it has been made *online*)
 
 ----
 
-Make a pull request
-~~~~~~~~~~~~~~~~~~~
+Pull request
+~~~~~~~~~~~~
+
+*Online*
+
 1. From your branch, create a new file
+
 2. Commit file to your branch
+
 3. Hit "Compare & pull request"
+
 4. Go to pull requests
+
 5. "Merge pull request"
+
 6. Delete branch
+
 7. See it on the master branch
+
+*Desktop*
+
+1. Fetch & pull origin
+
+2a. Select "Current branch", make a "New Branch", "Publish Branch" (**note** you can see 
+that it has been made *online*)
+
+2b. OR select a branch if one has already been made
+
+3. Make changes to a file
+
+4. Write a commit message & commit
+
+5. Push to origin
+
+6. "Create a pull request" (**note** takes you back *online*)
+
+**tip** pull requests are great to get feedback from collaborators before making a change
 
 **Note** that you can always revert back to a previous version
 
-.. code-block:: console
-	git pull upstream master
-	git commit
-	#add in message
-	git push origin <master branch name>
+**Exercise:**
+2. Why would pull requests be important?
 
-**Exercise:** Why would pull requests be important?
+----
+
+Merge
+~~~~~
+
+*Online*
+
+1. Go to "Pull requests"
+
+2. Select down arrow of "Merge pull request"
+
+3. Merge, Squash, or Rebase OR ignore
+
+4. Leave comment if need be
+
+5. Close pull request
+
+----
+
+Fork
+~~~~
+
+1. Go to a new repository
+
+2. Click fork
+
+3. Save to personal repository.
+
+4. Clone to Desktop.
+
+5. Interact via online or in Desktop.
+
+6. If want to make suggestions, can create a pull request.
 
 ----
 
