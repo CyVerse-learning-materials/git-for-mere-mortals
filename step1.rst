@@ -11,7 +11,7 @@ Navigating & Interacting with GitHub
 
 **Description:**
 
-In this step, you will learn the basics of interacting with the GitHub web interface and the GitHub desktop Client.
+In this step, you will learn the basics of interacting with the GitHub web interface and the GitHub Desktop Client.
 ----
 
 Basic Layout
@@ -31,6 +31,8 @@ The basic layout includes:
 Create a Repo
 ~~~~~~~~~~~~~~~~
 
+*Online*
+
 1. Go to your dasboard
 
 2. Click "New"
@@ -43,11 +45,18 @@ Create a Repo
 
 .. note:: Documentation is vital. *You are doing this for you 6 months from now*
 
+5. Can add collaborators under "Settings" -> "Collaborators"
+
+6. Can delete repo under "Settings" -> "Options"
+
 -------
 
 Create an Issue
 ~~~~~~~~~~~~~~~~~~~
 ..
+
+*Online*
+
 1. Click on the repository you just created.
 
 2. Click on "Issues"
@@ -61,6 +70,10 @@ Create an Issue
 5. Assign to someone, or create a label
 
 6. Submit new issue
+
+7. Close issue
+
+**tip** Issues are great for tracking decisions made or to-do lists
 
 **Exercise:** Create a new issue and relate it back to the issue you just created.
 
