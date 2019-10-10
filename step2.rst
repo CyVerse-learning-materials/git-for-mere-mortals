@@ -224,4 +224,3 @@ Search for an answer:
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/git-for-mere-mortals">Github Repo Link</a>
-© 2019 GitHub, Inc.
