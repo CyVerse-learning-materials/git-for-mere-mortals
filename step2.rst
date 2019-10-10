@@ -13,6 +13,7 @@ Cloning, Branching, & Versioning
 
 In this step, you will learn more advanced skills including cloning a repo, the difference between branching and forking, and how to submit and accept pull requests.
 
+----
 
 Clone a repo
 ~~~~~~~~~~~~
