@@ -9,13 +9,13 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
-project = 'YOUR PROJECT NAME HERE as topic_tutorial'
+project = 'Introduction to Git as topic_tutorial'
 copyright = '2019, CyVerse'
-author = 'your_name'
+author = 'Meghan Balk, Ramona Walls'
 version = '1.0'
 release = '1.0'
 
-epub_title = project
-epub_author = author
-epub_publisher = author
-epub_copyright = copyright
+epub_title = Git for Mere Mortals
+epub_author = Meghan Balk, Ramona Walls
+epub_publisher = CyVerse
+epub_copyright = 2019
