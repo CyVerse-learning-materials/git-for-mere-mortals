@@ -15,7 +15,7 @@ author = 'Meghan Balk, Ramona Walls'
 version = '1.0'
 release = '1.0'
 
-epub_title = Git for Mere Mortals
-epub_author = Meghan Balk, Ramona Walls
-epub_publisher = CyVerse
-epub_copyright = 2019
+epub_title = 'Git for Mere Mortals'
+epub_author = 'Meghan Balk, Ramona Walls'
+epub_publisher = 'CyVerse'
+epub_copyright = '2019'
