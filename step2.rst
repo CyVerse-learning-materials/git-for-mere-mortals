@@ -192,9 +192,9 @@ Etc.
 	3. Tag version: Version #
 	4. Release title: I usually put the date of the release, but any system can work
 
-- Reactions:
-	1. Create a new pull request
-	2. Looking at the messages, click the smiley face to give a reaction
+- Notifications:
+	- get notified when there is an issue or pull request created
+	- can also "watch" a repository and get updates
 
 - Badges
 	1. Go find a `badge <https://naereen.github.io/badges/>`_!
@@ -203,9 +203,6 @@ Etc.
 .. code-block:: 
 	[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Notifications:
-	- get notified when there is an issue or pull request created
-	- can also "watch" a repository and get updates
 
 ----
 
