@@ -145,7 +145,7 @@ GitHub Uses
 - Code development
 
 ..
-.. note:: Git is not really for storing or manipulating data, especially large files
+.. note:: Git is not really for storing or manipulating data, especially large files. But the `CyVerse Discovery Environment <https://de.cyverse.org/de/>`_ is a great place to serve, store, and share data.
 
 ------
 
