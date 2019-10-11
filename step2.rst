@@ -79,6 +79,28 @@ Version Control
 
 ----
 
+Revert to Previous Version
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Online*
+
+1. Find the commit you want to revert back to
+
+2. Click on the unique ID (a series of numbers)
+
+3. Download the zip file
+
+.. note::  You can add comments to specific changes by putting the mouse on the change and clicking the "+" button
+
+*Desktop*
+
+1. Click on history
+
+2. Right click on the last commit you want to rever to and select "Revert This Commit"
+	- this essentially "undoes" the commit made
+
+----
+
 Create a branch
 ~~~~~~~~~~~~~~~
 
